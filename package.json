@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"shadcn-svelte": "^0.14.0"
+	},
+	"scripts": {
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"preview": "svelte-kit preview"
+	},
+	"devDependencies": {
+		"@sveltejs/kit": "^2.20.2"
+	}
+}
