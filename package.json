@@ -5,7 +5,8 @@
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
-		"preview": "svelte-kit preview"
+		"preview": "svelte-kit preview",
+		"shadcn": "pnpm dlx shadcn-svelte@latest --cwd my-website --"
 	},
 	"devDependencies": {
 		"@sveltejs/kit": "^2.20.2"
