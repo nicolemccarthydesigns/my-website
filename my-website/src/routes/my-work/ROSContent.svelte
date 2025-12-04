@@ -5,14 +5,14 @@
 <div class="-mt-6 overflow-y-auto text-sm">
 	<div
 		class="rounded-t-lg bg-cover bg-center bg-no-repeat"
-		style="background-image: url('/images/RS-CS-hero-2.jpg');"
+		style="background-image: url('/images/ROS-hero.jpg');"
 	>
 		<div class="m-auto max-w-6xl space-y-4 p-10 text-lg">
 			<p class="text-3xl font-medium">Controlling the Chaos</p>
 			<p class="w-1/2">
 				In the early days of virtual events, bringing content live with a click felt effortless. But
 				as sessions grew more complex with slides, videos, guest speakers, and engagement tools
-				firing at once, that magic faded. What should’ve been seamless became a maze of panels,
+				firing at once, that magic faded. What should've been seamless became a maze of panels,
 				tabs, and timing risks.
 			</p>
 			<p class="w-1/2">
@@ -141,7 +141,7 @@
 				experience feel less stressful.
 			</p>
 		</div>
-		<img src="/images/RS-5.png" alt="Recording Studio" class="my-10 rounded-lg" />
+		<img src="/images/ROS-preview-2.jpg" alt="Recording Studio" class="my-10 rounded-lg" />
 		<div class="grid grid-cols-3 gap-10 pt-10">
 			<div class="col-span-2 space-y-4">
 				<p class="text-xl font-bold">From Insights to Implementation</p>
@@ -251,7 +251,7 @@
 			</div>
 		</div>
 
-		<img src="/images/RS-6.png" alt="Recording Studio" class="my-10 rounded-lg" />
+		<img src="/images/ROS-preview-3.jpg" alt="Recording Studio" class="my-10 rounded-lg" />
 
 		<div class="my-10 space-y-4">
 			<p class="text-xl font-medium">When Power Users Start Calling It 'Essential'</p>

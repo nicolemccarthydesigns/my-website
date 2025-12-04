@@ -2,18 +2,11 @@
 	import '../app.css';
 	import Container from '../components/Container.svelte';
 	import { Button } from '$lib/components/ui/button/index.js';
-	import * as Drawer from '$lib/components/ui/drawer/index.js';
-	import { onMount } from 'svelte';
+
 	import { Badge } from '$lib/components/ui/badge/index.js';
 
-	let IconSend;
-	let IconBrandLinkedin;
-
-	onMount(async () => {
-		const icons = await import('@tabler/icons-svelte');
-		IconSend = icons.IconSend;
-		IconBrandLinkedin = icons.IconBrandLinkedin;
-	});
+	import { IconSend } from '@tabler/icons-svelte';
+	import { IconBrandLinkedin } from '@tabler/icons-svelte';
 </script>
 
 <Container class="py-20">
@@ -57,36 +50,25 @@
 				<div class="1 flex items-center gap-3 pb-2">
 					<p class="leading-relaxed">Let's connect:</p>
 					<div class="flex items-center gap-3">
-						{#if IconSend}
-							<a
-								href="mailto:nicole@nicolemccarthydesigns.com"
-								target="_blank"
-								style="text-decoration: none; color: #3b3c3d;"
-								rel="noopener"
-								aria-label="Send email"
-							>
-								<svelte:component
-									this={IconSend}
-									stroke={2}
-									class="text-[#e2655c] hover:text-[#db4035]"
-								/>
-							</a>
-						{/if}
-						{#if IconBrandLinkedin}
-							<a
-								href="https://www.linkedin.com/in/nicolemmccarthy/"
-								target="_blank"
-								style="text-decoration: none; color: #3b3c3d;"
-								rel="noopener"
-								aria-label="Visit LinkedIn profile"
-							>
-								<svelte:component
-									this={IconBrandLinkedin}
-									stroke={2}
-									class="text-[#e2655c] hover:text-[#db4035]"
-								/>
-							</a>
-						{/if}
+						<a
+							href="mailto:nicole@nicolemccarthydesigns.com"
+							target="_blank"
+							style="text-decoration: none; color: #3b3c3d;"
+							rel="noopener"
+							aria-label="Send email"
+						>
+							<IconSend stroke={2} class="text-[#e2655c] hover:text-[#db4035]" />
+						</a>
+
+						<a
+							href="https://www.linkedin.com/in/nicolemmccarthy/"
+							target="_blank"
+							style="text-decoration: none; color: #3b3c3d;"
+							rel="noopener"
+							aria-label="Visit LinkedIn profile"
+						>
+							<IconBrandLinkedin stroke={2} class="text-[#e2655c] hover:text-[#db4035]" />
+						</a>
 					</div>
 				</div>
 				<Button variant="brand" href="/my-work">View my work</Button>

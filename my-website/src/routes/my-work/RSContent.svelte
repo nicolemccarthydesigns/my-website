@@ -166,7 +166,7 @@
 				refining great content.
 			</p>
 		</div>
-		<img src="/images/RS-6.png" alt="Recording Studio" class="my-10 rounded-lg" />
+		<img src="/images/RS-preview.jpg" alt="Recording Studio" class="my-10 rounded-lg" />
 		<div class="space-y-4">
 			<p class="text-xl font-medium">Seamless End-to-End Workflow</p>
 			<p>

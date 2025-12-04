@@ -1,6 +1,7 @@
 <script lang="ts">
 	import '../app.css';
 	import Container from '../components/Container.svelte';
+	import { IconBrandLinkedin } from '@tabler/icons-svelte';
 
 	let scrollY = 0;
 	let logoClass = 'w-30';
@@ -17,13 +18,29 @@
 		class="sticky top-0 z-10 w-full border-b border-gray-200 bg-white py-1"
 		style="opacity: {opacity}; transition: opacity 0.3s;"
 	>
-		<a href="/" class="mx-auto block max-w-[1280px] px-12 md:px-20">
-			<img
-				src="/images/Logo-2.png"
-				alt="Nicole McCarthy"
-				class="{logoClass} h-auto transition-all duration-300"
-			/>
-		</a>
+		<div class="mx-auto flex max-w-[1280px] items-center justify-between">
+			<a href="/" class=" block px-12 md:px-20">
+				<img
+					src="/images/Logo-2.png"
+					alt="Nicole McCarthy"
+					class="{logoClass} h-auto transition-all duration-300"
+				/>
+			</a>
+			<div class="flex items-center gap-10">
+				<a href="/my-work" class="block hover:text-[#db4035]">
+					<p>Work</p>
+				</a>
+				<a
+					href="https://www.linkedin.com/in/nicolemmccarthy/"
+					target="_blank"
+					style="text-decoration: none; color: #3b3c3d;"
+					rel="noopener"
+					aria-label="Visit LinkedIn profile"
+				>
+					<IconBrandLinkedin stroke={2} class="text-[#e2655c] hover:text-[#db4035]" />
+				</a>
+			</div>
+		</div>
 	</div>
 	<main class="flex-1">
 		<slot />
