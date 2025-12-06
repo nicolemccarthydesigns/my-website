@@ -28,6 +28,7 @@ h6 {
    
     
 }
+p {line-height: 1.8;}
 :root {
     --radius: 0.625rem;
     --background: oklch(1 0 0);

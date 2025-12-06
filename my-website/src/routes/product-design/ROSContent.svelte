@@ -5,14 +5,14 @@
 <div class="-mt-6 overflow-y-auto text-sm">
 	<div
 		class="rounded-t-lg bg-cover bg-center bg-no-repeat"
-		style="background-image: url('/images/RS-CS-hero-2.jpg');"
+		style="background-image: url('/images/ROS-hero.jpg');"
 	>
 		<div class="m-auto max-w-6xl space-y-4 p-10 text-lg">
 			<p class="text-3xl font-medium">Controlling the Chaos</p>
 			<p class="w-1/2">
 				In the early days of virtual events, bringing content live with a click felt effortless. But
 				as sessions grew more complex with slides, videos, guest speakers, and engagement tools
-				firing at once, that magic faded. What should’ve been seamless became a maze of panels,
+				firing at once, that magic faded. What should've been seamless became a maze of panels,
 				tabs, and timing risks.
 			</p>
 			<p class="w-1/2">
@@ -65,21 +65,15 @@
 				</p>
 				<div class="grid grid-cols-3 gap-4">
 					<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-4 text-center">
-						<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-							Validated known pain points
-						</p>
+						<p class="text-lg font-bold uppercase tracking-wider">Validated known pain points</p>
 						<p class="">around managing cues, timing, and transitions</p>
 					</div>
 					<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-4 text-center">
-						<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-							Revealed new frustrations
-						</p>
+						<p class="text-lg font-bold uppercase tracking-wider">Revealed new frustrations</p>
 						<p class="">with disjointed tools and manual workflows</p>
 					</div>
 					<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-4 text-center">
-						<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-							Provided early feedback
-						</p>
+						<p class="text-lg font-bold uppercase tracking-wider">Provided early feedback</p>
 						<p class="">on initial design concepts, ensuring ROS was grounded in real user needs</p>
 					</div>
 				</div>
@@ -114,24 +108,18 @@
 			<p class="w-fit rounded-lg bg-[#fae2d3]/50 px-1 font-bold">What they needed:</p>
 			<div class="grid grid-cols-3 gap-4">
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
-					<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-						Stronger visual orientation:
-					</p>
+					<p class="text-lg font-bold uppercase tracking-wider">Stronger visual orientation:</p>
 					<p class="">highlight what's live; gray out completed actions</p>
 				</div>
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
-					<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-						Time-saving tools:
-					</p>
+					<p class="text-lg font-bold uppercase tracking-wider">Time-saving tools:</p>
 					<p class="">
 						pre-populated chat messages, pre-scheduled tickers, actions they could set up ahead of
 						time
 					</p>
 				</div>
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
-					<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-						A rehearsal mode:
-					</p>
+					<p class="text-lg font-bold uppercase tracking-wider">A rehearsal mode:</p>
 					<p class="">ability to practice a session and then reset before going live</p>
 				</div>
 			</div>
@@ -141,7 +129,7 @@
 				experience feel less stressful.
 			</p>
 		</div>
-		<img src="/images/RS-5.png" alt="Recording Studio" class="my-10 rounded-lg" />
+		<img src="/images/ROS-preview-2.jpg" alt="Recording Studio" class="my-10 rounded-lg" />
 		<div class="grid grid-cols-3 gap-10 pt-10">
 			<div class="col-span-2 space-y-4">
 				<p class="text-xl font-bold">From Insights to Implementation</p>
@@ -251,7 +239,7 @@
 			</div>
 		</div>
 
-		<img src="/images/RS-6.png" alt="Recording Studio" class="my-10 rounded-lg" />
+		<img src="/images/ROS-preview-3.jpg" alt="Recording Studio" class="my-10 rounded-lg" />
 
 		<div class="my-10 space-y-4">
 			<p class="text-xl font-medium">When Power Users Start Calling It 'Essential'</p>

@@ -125,7 +125,7 @@
 					>
 						Primary Users:
 					</p>
-					<p class="">Marketing Teams</p>
+					<p class="pt-2">Marketing Teams</p>
 					<p class="">Content Creators</p>
 					<p class="">Executives</p>
 				</div>
@@ -135,7 +135,7 @@
 					>
 						Common Goals:
 					</p>
-					<p class="">create, repurpose, and publish polished recordings</p>
+					<p class="pt-2">create, repurpose, and publish polished recordings</p>
 				</div>
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
 					<p
@@ -143,7 +143,7 @@
 					>
 						Key use cases:
 					</p>
-					<p class="">on-demand webinars, branded content, and video podcasts</p>
+					<p class="pt-2">on-demand webinars, branded content, and video podcasts</p>
 				</div>
 			</div>
 		</div>
@@ -181,7 +181,7 @@
 					>
 						Unified three key areas:
 					</p>
-					<p class="">Goldcast Studio</p>
+					<p class="pt-2">Goldcast Studio</p>
 					<p class="">Recording Studio</p>
 					<p class="">Content Lab</p>
 				</div>
@@ -191,7 +191,7 @@
 					>
 						Enabled users to:
 					</p>
-					<p class="">record, edit, and repurpose content without leaving the platform</p>
+					<p class="pt-2">record, edit, and repurpose content without leaving the platform</p>
 				</div>
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
 					<p
@@ -199,7 +199,7 @@
 					>
 						Aligned strategy
 					</p>
-					<p class="">and identified dependencies to deliver a smooth, end-to-end workflow</p>
+					<p class="pt-2">and identified dependencies to deliver a smooth, end-to-end workflow</p>
 				</div>
 			</div>
 		</div>
@@ -245,7 +245,7 @@
 					>
 						10x faster content production
 					</p>
-					<p class="">through a streamlined, end-to-end workflow</p>
+					<p class="pt-2">through a streamlined, end-to-end workflow</p>
 				</div>
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
 					<p
@@ -253,7 +253,7 @@
 					>
 						60% higher
 					</p>
-					<p class="">webinar attendance through more consistent, polished content</p>
+					<p class="pt-2">webinar attendance through more consistent, polished content</p>
 				</div>
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
 					<p
@@ -261,7 +261,9 @@
 					>
 						Clear validation
 					</p>
-					<p class="">that simplifying creation boosts both scalability and audience engagement</p>
+					<p class="pt-2">
+						that simplifying creation boosts both scalability and audience engagement
+					</p>
 				</div>
 			</div>
 			<p class="text-xl font-medium">

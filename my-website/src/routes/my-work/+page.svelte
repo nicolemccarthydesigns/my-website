@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import '../../app.css';
 	import Container from '../../components/Container.svelte';
 	import * as Tabs from '$lib/components/ui/tabs/index.js';

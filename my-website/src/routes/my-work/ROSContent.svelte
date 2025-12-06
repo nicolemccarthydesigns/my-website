@@ -65,21 +65,15 @@
 				</p>
 				<div class="grid grid-cols-3 gap-4">
 					<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-4 text-center">
-						<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-							Validated known pain points
-						</p>
+						<p class="text-lg font-bold uppercase tracking-wider">Validated known pain points</p>
 						<p class="">around managing cues, timing, and transitions</p>
 					</div>
 					<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-4 text-center">
-						<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-							Revealed new frustrations
-						</p>
+						<p class="text-lg font-bold uppercase tracking-wider">Revealed new frustrations</p>
 						<p class="">with disjointed tools and manual workflows</p>
 					</div>
 					<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-4 text-center">
-						<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-							Provided early feedback
-						</p>
+						<p class="text-lg font-bold uppercase tracking-wider">Provided early feedback</p>
 						<p class="">on initial design concepts, ensuring ROS was grounded in real user needs</p>
 					</div>
 				</div>
@@ -114,24 +108,18 @@
 			<p class="w-fit rounded-lg bg-[#fae2d3]/50 px-1 font-bold">What they needed:</p>
 			<div class="grid grid-cols-3 gap-4">
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
-					<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-						Stronger visual orientation:
-					</p>
+					<p class="text-lg font-bold uppercase tracking-wider">Stronger visual orientation:</p>
 					<p class="">highlight what's live; gray out completed actions</p>
 				</div>
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
-					<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-						Time-saving tools:
-					</p>
+					<p class="text-lg font-bold uppercase tracking-wider">Time-saving tools:</p>
 					<p class="">
 						pre-populated chat messages, pre-scheduled tickers, actions they could set up ahead of
 						time
 					</p>
 				</div>
 				<div class="space-y-1 rounded-lg bg-[#fae2d3]/50 p-8 text-center">
-					<p class="rounded-lg bg-[#fae2d3] px-1 text-lg font-bold uppercase tracking-wider">
-						A rehearsal mode:
-					</p>
+					<p class="text-lg font-bold uppercase tracking-wider">A rehearsal mode:</p>
 					<p class="">ability to practice a session and then reset before going live</p>
 				</div>
 			</div>
